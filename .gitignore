@@ -1,0 +1,6 @@
+venv
+.env
+__pycache__
+
+context_search_test/
+create_test.py
